@@ -1,1 +1,1 @@
-The matlab code for EKF_fusion is tested and summarized.
+The matlab code for EKF_fusion is verified and summarized.
